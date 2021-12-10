@@ -1,7 +1,7 @@
 {
   "name": "cli-wb-ts-atv",
   "version": "1.0.0",
-  "description": "Projeto da matéria Técnica de programação I do segundo semestre da FATEC. O objetivo foi o desenvolvimento de uma agenda de cadastro de clientes, em TypeScript.",
+  "description": "Projeto da matéria Técnica de programação I do segundo semestre da FATEC. Objetivo: desenvolvimento de uma agenda de cadastro de clientes, em TypeScript.",
   "main": "out/app/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
