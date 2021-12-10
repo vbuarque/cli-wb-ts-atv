@@ -1,4 +1,4 @@
-# Grupo WB Agenda de clientes
+# Grupo WB Agenda de clientes :ledger:
 
 Neste guia iremos configurar o ambiente de desenvolvimento, clonando o projeto e instalando suas dependências, além de mostrar como executá-lo. Ainda neste guia é possível encontrar uma breve explicação da estrutura das pastas adotada para a construção desse projeto.
 
